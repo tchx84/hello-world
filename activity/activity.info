@@ -2,7 +2,16 @@
 name = HelloWorld
 activity_version = 7
 bundle_id = org.sugarlabs.HelloWorld
+release_date = 2020-03-12
 exec = sugar-activity3 activity.HelloWorldActivity
 icon = activity-helloworld
 license = GPLv2+
+metadata_license = CC0-1.0
 repository = https://github.com/sugarlabs/hello-world.git
+summary = A demo Sugar application
+description = HelloWorld is a demo application used in tutorials for porting Sugar applications to Flatpak.
+url = https://github.com/sugarlabs/hello-world.git
+tags = Education
+update_contact = tch@sugarlabs.org
+developer_name = Sugar Labs Community
+screenshots = https://i.imgur.com/N1uXt6S.png
